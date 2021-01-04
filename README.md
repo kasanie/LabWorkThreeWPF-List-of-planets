@@ -7,3 +7,6 @@
 Пример работы программы:
 ![alt text](https://github.com/ssplant/LabWorkThreeWPF-List-of-planets/blob/master/image.png "Пример работы программы")
 
+Моя программа:
+![alt text](https://github.com/ssplant/LabWorkThreeWPF-List-of-planets/blob/master/Capture.PNG "Пример работы программы")
+
